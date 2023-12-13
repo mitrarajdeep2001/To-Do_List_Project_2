@@ -8,6 +8,10 @@
   list-style: none;
 }
 
+html {
+  overscroll-behavior: none;
+}
+
 body {
   height: 100vh;
   display: flex;
